@@ -1,7 +1,7 @@
 # Franklin
 WhatsApp Bot by Ikem
 --------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-    <a href="https://ibb.co/N6NMDtn"><img src="" alt="01" border="0" /></a>https://telegra.ph/file/0b2b50d49b8da71092ce8.jpg
+    <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/0b2b50d49b8da71092ce8.jpg" alt="01" border="0" /></a>
 </p>
 
 
